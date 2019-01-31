@@ -1,6 +1,5 @@
 # Trie
 
----
 
 ### Overview
 Designed for keyword retrieval and searching
