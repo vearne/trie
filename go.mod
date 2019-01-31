@@ -1,1 +1,1 @@
-module trie
+module github.com/vearne/trie
